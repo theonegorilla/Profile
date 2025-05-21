@@ -2,8 +2,5 @@
   "name": "Harambe",
   "symbol": "HAR",
   "description": "The 1 Gorilla, risen from the grave, destined to defeat 100 men",
-  "image": "https://theonegorilla.github.io/Profile/",
-  "attributes": [
-    { "trait_type": "Category", "value": "Meme" }
-  ]
+  "image": "https://theonegorilla.github.io/Profile/"
 }
